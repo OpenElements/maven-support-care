@@ -18,6 +18,15 @@ Our mission is to create a sustainable source of funding to enable continuous im
 - **Transparent use of funds:** Open Elements manages funding transparently and reports regularly on the progress of milestones.
 - **Development by experts:** Our work is carried out by leading Maven experts.
 
+## Next steps
+
+We will have an open milestone planning at the [JSail](https://jsail.ijug.eu) unconference. That meeting will be done as a face-2-face meeting.
+Until that date we collect ideas for milestones that will be implemented by using ressources of **Support & Care for Maven** in the [discussions section](https://github.com/OpenElements/maven-support-care/discussions) of this repository. Everyone is welcome to add ideas for milestones or comment on milestone ideas.
+
+**Important:** It is not our plan to ignore the [Maven issue tracker](https://issues.apache.org/jira/projects/MNG/issues).
+All issues that are based on the milestones that we will define in the face-2-face meeting will be handled in the Maven issue tracker.
+This repository is used to show the work that is done by using the given funds as transparent as possible.
+
 ## Benefits
 
 - **Improving software quality:** We ensure the reliability and performance of Maven through professional maintenance and regular updates.
