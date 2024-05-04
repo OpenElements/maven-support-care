@@ -38,7 +38,7 @@ In addition to Open Elements, the French-based company [Yupiik](https://www.yupi
 In addition to these companies, individuals who are committed to the future of Maven are also involved.
 These community members are experts in the field of Maven and contribute their experience and knowledge to the initiative.
 
-### Contribute
+## Contribute
 
 We invite developers and interested parties to participate in the initiative, provide feedback and become part of our community.
 Contact us at [info@open-elements.com](mailto:info@open-elements.com) for more information and how you can contribute.
