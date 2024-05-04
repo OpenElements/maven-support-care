@@ -42,5 +42,3 @@ These community members are experts in the field of Maven and contribute their e
 
 We invite developers and interested parties to participate in the initiative, provide feedback and become part of our community.
 Contact us at [info@open-elements.com](mailto:info@open-elements.com) for more information and how you can contribute.
-
-![duke-with-logo](https://github.com/OpenElements/maven-support-care/assets/9443847/8507bcb8-f98b-47ab-aaaa-55e6a69ada0a)
