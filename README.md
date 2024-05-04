@@ -27,12 +27,6 @@ Until that date we collect ideas for milestones that will be implemented by usin
 All issues that are based on the milestones that we will define in the face-2-face meeting will be handled in the Maven issue tracker.
 This repository is used to show the work that is done by using the given funds as transparent as possible.
 
-## Benefits
-
-- **Improving software quality:** We ensure the reliability and performance of Maven through professional maintenance and regular updates.
-- **Community involvement:** The initiative provides the community with regular updates and the opportunity to participate in the direction of project development.
-- **Long-term security:** With financial support from the Sovereign Tech Fund and transparent governance from Open Elements, we are planning a sustainable future for Maven.
-
 ## About us
 
 Support & care for Maven is supported by both companies and individual community members.
