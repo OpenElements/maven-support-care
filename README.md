@@ -1,5 +1,5 @@
 # Support & Care for Maven
-This repository is used to track the work of Support & Care for Maven.
+This repository is used to track the work of Support & Care for Maven as open and transparent as possible.
 
 <img width="1720" alt="logo" src="https://github.com/OpenElements/maven-support-care/assets/9443847/875e83bf-26e1-4488-a1fb-44e5de639f78">
 
