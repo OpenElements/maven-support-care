@@ -10,7 +10,7 @@ The initiative aims to strengthen the development and maintenance of Maven throu
 
 Apache Maven is a critical tool in the Java ecosystem, used by millions of developers worldwide with >100 million downloads per year.
 Despite its importance, Maven is maintained primarily on a volunteer basis with no fixed financial support.
-Our mission is to create a sustainable source of funding for invidivuals to enable continuous improvements and professional support for Maven.
+Our mission is to create a sustainable source of funding for highly needed work around the Apache Maven project and direct contribution to the project. Our goal is to enable continuous improvements and professional support for Maven.
 
 ## How we work
 
