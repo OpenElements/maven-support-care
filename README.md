@@ -46,3 +46,6 @@ Contact us at [maven@open-elements.com](mailto:maven@open-elements.com) for more
 <img width="489" alt="we want you illustration" src="https://github.com/OpenElements/maven-support-care/assets/9443847/1b0b1399-4a53-4b09-ac12-454583555eb6">
 
 
+## Trademark
+
+Apache&trade; and Apache Maven&trade; are trademarks of The Apache Software Foundation.
