@@ -18,6 +18,8 @@ Our mission is to create a sustainable source of funding for highly needed work 
 - **Transparent use of funds:** Open Elements manages funding transparently and reports regularly on the progress of milestones.
 - **Development by experts:** Our work is carried out by leading Maven&trade; experts.
 
+For more details, see [our public page](https://open-elements.com/support-care-maven/#our-mission).
+
 ## Next steps
 
 We will have an open milestone planning at the [JSail](https://jsail.ijug.eu) unconference. That meeting will be done as a face-2-face meeting.
