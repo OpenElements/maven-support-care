@@ -1,7 +1,7 @@
 # Support & Care for Apache Maven&trade;
 This repository is used to track the work of [Support & Care for Apache Maven&trade;](https://open-elements.com/support-care-maven/) as open and transparent as possible.
 
-<img width="1720" alt="logo" src="https://github.com/OpenElements/maven-support-care/assets/9443847/875e83bf-26e1-4488-a1fb-44e5de639f78">
+<img width="1720" alt="logo" src="https://open-elements.com/support-care-maven/logo.png">
 
 The **Support & Care for Maven** Initiative is a groundbreaking program to help secure the future of the [Apache Maven&trade; project](https://maven.apache.org/) through sustainable support and care.
 The initiative aims to strengthen the development and maintenance of Maven&trade; through funding of needed contributions to the project, thus ensuring the high quality and availability of Apache Maven&trade; that the Java ecosystem needs.
