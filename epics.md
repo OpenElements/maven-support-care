@@ -44,3 +44,4 @@ The following discussions are not part of an epic for now:
 - https://github.com/OpenElements/maven-support-care/discussions/38
 - https://github.com/OpenElements/maven-support-care/discussions/37
 - https://github.com/OpenElements/maven-support-care/discussions/23
+- https://github.com/OpenElements/maven-support-care/discussions/39
