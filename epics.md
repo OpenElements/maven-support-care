@@ -27,6 +27,7 @@ In general all epics are based on discussions in the
 | **Migration to Eclipse Sisu** | A long time ago, Maven switched from Plexus to Eclipse Sisu but a lot of parts (like plugins) still use Plexus | [28](https://github.com/OpenElements/maven-support-care/discussions/28) |
 | **Provide an easy way to create a project** | A functionallity like  https://start.spring.io or https://start.microprofile.io for Maven is needed | [30](https://github.com/OpenElements/maven-support-care/discussions/30) |
 | **Java Module Path for compilation & Execution** | Maven and all compile / test / execution plugins need to support module path next to classpath | [35](https://github.com/OpenElements/maven-support-care/discussions/35) |
+| **Maven Metadata in Cyclon DX SBOM** | A SBOM created by Cyclon DX should contain information about maven and all used plugins | [1](https://github.com/OpenElements/maven-support-care/discussions/1) |
 
 ## Discussion that are not part of an epic
 
@@ -45,3 +46,4 @@ The following discussions are not part of an epic for now:
 - https://github.com/OpenElements/maven-support-care/discussions/37
 - https://github.com/OpenElements/maven-support-care/discussions/23
 - https://github.com/OpenElements/maven-support-care/discussions/39
+- https://github.com/OpenElements/maven-support-care/discussions/40
