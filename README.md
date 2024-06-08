@@ -20,12 +20,14 @@ Our mission is to create a sustainable source of funding for highly needed work 
 
 For more details, see [our public page](https://open-elements.com/support-care-maven/).
 
+## Workflow
+
+Before we decided on what topics we would spend money on we started several discussions with the Apache Maven&trade; team. You can find all that in the [discussions section](https://github.com/OpenElements/maven-support-care/discussions) of this repository.
+We extracted epic issues based on the discussions in [this document](https://github.com/OpenElements/maven-support-care/blob/main/epics.md).
+
 ## Next steps
 
-We will have an open milestone planning at the [JSail](https://jsail.ijug.eu) unconference. That meeting will be done as a face-2-face meeting.
-Until that date we collect ideas for milestones that will be implemented by using ressources of **Support & Care for Apache Maven&trade;** in the [discussions section](https://github.com/OpenElements/maven-support-care/discussions) of this repository. Everyone is welcome to add ideas for milestones or comment on milestone ideas.
-
-We currently extract epic issues based on the discussions in [this document](https://github.com/OpenElements/maven-support-care/blob/main/epics.md).
+We currently specify and estimate the epics that should be funded. All that epics will be managed as [issues](https://github.com/OpenElements/maven-support-care/issues) in this repository.
 
 **Important:** It is not our plan to ignore the [Maven&trade; issue trackers](https://maven.apache.org/issue-management.html) nor [Maven&trade; contribution guidelines](https://maven.apache.org/guides/development/guide-helping.html).
 All issues that are based on the milestones that we will define in the face-2-face meeting will be handled in the Maven&trade; issue trackers and associated work will be reviewed by the wider community before merging.
