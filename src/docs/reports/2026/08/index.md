@@ -48,3 +48,4 @@ contributors:
 - type: DOCUMENTATION
   text: Start the tutorial for writing a first Maven plugin in Java
   link: https://github.com/support-and-care/doc-for-maven/pull/24
+
