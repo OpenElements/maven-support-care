@@ -59,4 +59,3 @@ contributors:
 
 - type: DOCUMENTATION
   text: Discussion about global writing styles, e.g. addressing the reader in a formal or informal way
-

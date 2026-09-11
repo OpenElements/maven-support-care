@@ -49,4 +49,3 @@ contributors:
 
 - type: DOCUMENTATION
   text: Starting a writing guide for documentation in general
-

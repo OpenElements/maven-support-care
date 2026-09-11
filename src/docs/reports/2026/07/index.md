@@ -63,4 +63,3 @@ contributors:
 - type: DOCUMENTATION
   text: Start writing a chapter about the dependency mechanism
   link: https://github.com/support-and-care/doc-for-maven/issues/19
-
