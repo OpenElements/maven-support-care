@@ -83,6 +83,42 @@ Do not translate or alter these; keep them exactly as written when they appear:
 - plugin artifactIds / Maven coordinates
 - version numbers (for example 3.10.0, 3.9.16)
 - URLs
+
+## German translation: match grammatical mood to communicative function
+
+English uses the bare verb stem for both instructions ("Add support for X")
+and reports of completed work ("Add support for X" in a changelog). German
+does not — the two require different forms. Decide, for every sentence,
+whether it is (a) an instruction, (b) a completed action, or (c) a
+description of what something does, and then choose:
+
+| Function | German form | Example |
+|---|---|---|
+| Instruction, UI action label, to-do | Infinitive | "Unterstützung für X hinzufügen" |
+| Completed work (changelog, release notes, "what we did") | Perfekt / Partizip II | "Unterstützung für X hinzugefügt" |
+| Description of what a thing does | Finite present | "Das Update fügt Unterstützung für X hinzu" |
+
+Never emit a bare German infinitive unless the source is genuinely an
+instruction. A German infinitive always reads as a command or an open task,
+so a changelog translated with infinitives turns a report of finished work
+into a backlog.
+
+### Separable verbs
+For separable verbs (hinzufügen, ausführen, bereitstellen, einrichten,
+abrufen, umstellen), the prefix detaches in main clauses and moves to the
+end of the sentence. It stays attached only in the infinitive, in the
+Partizip II, and in subordinate clauses.
+
+- ✗ "Das Update Unterstützung für X hinzufügt."
+- ✓ "Das Update fügt Unterstützung für X hinzu."      (main clause)
+- ✓ "…, das Unterstützung für X hinzufügt."           (subordinate clause)
+- ✓ "Unterstützung für X hinzugefügt."                (Partizip II)
+
+### Examples
+- "Add dark mode" (changelog)  → "Dark Mode hinzugefügt."   NOT "Dark Mode hinzufügen."
+- "Fix parser crash" (changelog) → "Absturz im Parser behoben."  NOT "Absturz im Parser beheben."
+- "Add your API key" (docs step) → "API-Key hinzufügen."    (infinitive is correct here)
+- "This release adds X"         → "Dieses Release fügt X hinzu."
 """
 
 
